@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<populacao_continente>
+   <continente>
+      <nome>Europe</nome>
+      <populacao_total>3.52561961E8</populacao_total>
+   </continente>
+   <continente>
+      <nome>America</nome>
+      <populacao_total>6.85750407E8</populacao_total>
+   </continente>
+   <continente>
+      <nome>Africa</nome>
+      <populacao_total>4.523477E7</populacao_total>
+   </continente>
+   <continente>
+      <nome>Ocean</nome>
+      <populacao_total>1.41722205E8</populacao_total>
+   </continente>
+   <continente>
+      <nome>Asia</nome>
+      <populacao_total>1.394015977E9</populacao_total>
+   </continente>
+</populacao_continente>

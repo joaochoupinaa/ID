@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <pais>
+      <codigoISO CodigoISO="PT"/>
+      <nome>Portugal</nome>
+      <continente>Europe</continente>
+      <presidente>President Marcelo REBELO DE SOUSA</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png</bandeira>
+      <populacao>10302674</populacao>
+      <area>92,090</area>
+      <crescimentoPopulacional>0.15%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>LISBON</cidade>
+         <cidade>Porto</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.pt</dominioInternet>
+      <idiomas>
+         <idioma>Portuguese</idioma>
+         <idioma>Mirandese</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Spain</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="ES"/>
+      <nome>Spain</nome>
+      <continente>Europe</continente>
+      <presidente>King FELIPE VI</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png</bandeira>
+      <populacao>50015792</populacao>
+      <area>505,370</area>
+      <crescimentoPopulacional>0.73%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>MADRID</cidade>
+         <cidade>Barcelona</cidade>
+         <cidade>Valencia</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.es</dominioInternet>
+      <idiomas>
+         <idioma>Castilian</idioma>
+         <idioma>Spanish</idioma>
+         <idioma>Catalan</idioma>
+         <idioma>Galician</idioma>
+         <idioma>Basque</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Andorra</pais_vizinho>
+         <pais_vizinho>France</pais_vizinho>
+         <pais_vizinho>Gibraltar</pais_vizinho>
+         <pais_vizinho>Portugal</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="DE"/>
+      <nome>Germany</nome>
+      <continente>Europe</continente>
+      <presidente>President Frank</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png</bandeira>
+      <populacao>80159662</populacao>
+      <area>357,022</area>
+      <crescimentoPopulacional>0.19%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>BERLIN</cidade>
+         <cidade>Hamburg</cidade>
+         <cidade>Munich</cidade>
+         <cidade>Cologne</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.de</dominioInternet>
+      <idiomas>
+         <idioma>German</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Austria</pais_vizinho>
+         <pais_vizinho>Belgium</pais_vizinho>
+         <pais_vizinho>Czech Republic</pais_vizinho>
+         <pais_vizinho>Denmark</pais_vizinho>
+         <pais_vizinho>France</pais_vizinho>
+         <pais_vizinho>Luxembourg</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="US"/>
+      <nome>United States</nome>
+      <continente>America</continente>
+      <presidente>President Joseph R BIDEN Jr</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1200px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</bandeira>
+      <populacao>332639102</populacao>
+      <area>9,826,675</area>
+      <crescimentoPopulacional>0.9%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>New York</cidade>
+         <cidade>Newark</cidade>
+         <cidade>Los Angeles</cidade>
+         <cidade>Long Beach</cidade>
+         <cidade>Santa Ana</cidade>
+         <cidade>Chicago</cidade>
+         <cidade>Miami</cidade>
+         <cidade>Philadelphia</cidade>
+         <cidade>WASHINGTON</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.us</dominioInternet>
+      <idiomas>
+         <idioma>English</idioma>
+         <idioma>Spanish</idioma>
+         <idioma>Indo</idioma>
+         <idioma>European</idioma>
+         <idioma>Asian</idioma>
+         <idioma>Pacific</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Canada</pais_vizinho>
+         <pais_vizinho>Mexico</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="SE"/>
+      <nome>Sweden</nome>
+      <continente>Europe</continente>
+      <presidente>King CARL XVI GUSTAF</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png</bandeira>
+      <populacao>10202491</populacao>
+      <area>450,295</area>
+      <crescimentoPopulacional>0.18%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>STOCKHOLM</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.se</dominioInternet>
+      <idiomas>
+         <idioma>Swedish</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Finland</pais_vizinho>
+         <pais_vizinho>Norway</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="VE"/>
+      <nome>Venezuela</nome>
+      <continente>America</continente>
+      <presidente>Notification Statement</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png</bandeira>
+      <populacao>28644603</populacao>
+      <area>912,050</area>
+      <crescimentoPopulacional>1.44%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>CARACAS</cidade>
+         <cidade>Maracaibo</cidade>
+         <cidade>Valencia</cidade>
+         <cidade>Barquisimeto</cidade>
+         <cidade>Maracay</cidade>
+         <cidade>Ciudad Guayana</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.ve</dominioInternet>
+      <idiomas>
+         <idioma>Spanish</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Brazil</pais_vizinho>
+         <pais_vizinho>Colombia</pais_vizinho>
+         <pais_vizinho>Guyana</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="BR"/>
+      <nome>Brazil</nome>
+      <continente>America</continente>
+      <presidente>President Jair BOLSONARO</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png</bandeira>
+      <populacao>211715973</populacao>
+      <area>8,514,877</area>
+      <crescimentoPopulacional>0.83%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>Sao Paulo</cidade>
+         <cidade>Rio de Janeiro</cidade>
+         <cidade>Belo Horizonte</cidade>
+         <cidade>Porto Alegre</cidade>
+         <cidade>Recife</cidade>
+         <cidade>BRASILIA</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.br</dominioInternet>
+      <idiomas>
+         <idioma>Portuguese</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Argentina</pais_vizinho>
+         <pais_vizinho>Bolivia</pais_vizinho>
+         <pais_vizinho>Colombia</pais_vizinho>
+         <pais_vizinho>French Guiana</pais_vizinho>
+         <pais_vizinho>Guyana</pais_vizinho>
+         <pais_vizinho>Paraguay</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="AO"/>
+      <nome>Angola</nome>
+      <continente>Africa</continente>
+      <presidente>President Joao Manuel Goncalves LOURENCO</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png</bandeira>
+      <populacao>32522339</populacao>
+      <area>1,246,700</area>
+      <crescimentoPopulacional>2.78%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>LUANDA</cidade>
+         <cidade>Huambo</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.ao</dominioInternet>
+      <idiomas>
+         <idioma>Portuguese</idioma>
+         <idioma>Bantu</idioma>
+         <idioma>African</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>The Democratic Republic of the Congo</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="RW"/>
+      <nome>Rwanda</nome>
+      <continente>Africa</continente>
+      <presidente>President Paul KAGAME</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png</bandeira>
+      <populacao>12712431</populacao>
+      <area>26,338</area>
+      <crescimentoPopulacional>2.7%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>KIGALI</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.rw</dominioInternet>
+      <idiomas>
+         <idioma>Kinyarwanda</idioma>
+         <idioma>Bantu</idioma>
+         <idioma>French</idioma>
+         <idioma>English</idioma>
+         <idioma>Kiswahili</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Burundi</pais_vizinho>
+         <pais_vizinho>Democratic Republic of the Congo</pais_vizinho>
+         <pais_vizinho>Tanzania</pais_vizinho>
+         <pais_vizinho>Uganda</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="RU"/>
+      <nome>Russia</nome>
+      <continente>Ocean</continente>
+      <presidente>President Vladimir Vladimirovich PUTIN</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png</bandeira>
+      <populacao>141722205</populacao>
+      <area>17,098,242</area>
+      <crescimentoPopulacional>0.02%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>MOSCOW</cidade>
+         <cidade>Saint Petersburg</cidade>
+         <cidade>Novosibirsk</cidade>
+         <cidade>Yekaterinburg</cidade>
+         <cidade>Nizhniy Novgorod</cidade>
+         <cidade>Samara</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.ru</dominioInternet>
+      <idiomas>
+         <idioma>Russian</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Azerbaijan</pais_vizinho>
+         <pais_vizinho>Belarus</pais_vizinho>
+         <pais_vizinho>Estonia</pais_vizinho>
+         <pais_vizinho>Finland</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="FR"/>
+      <nome>France</nome>
+      <continente>Europe</continente>
+      <presidente>President Emmanuel MACRON</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png</bandeira>
+      <populacao>67848156</populacao>
+      <area>643,801</area>
+      <crescimentoPopulacional>0.47%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>PARIS</cidade>
+         <cidade>Marseille</cidade>
+         <cidade>Aix</cidade>
+         <cidade>Provence</cidade>
+         <cidade>Lyon</cidade>
+         <cidade>Lille</cidade>
+         <cidade>Nice</cidade>
+         <cidade>Cannes</cidade>
+         <cidade>Toulouse</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.fr</dominioInternet>
+      <idiomas>
+         <idioma>French</idioma>
+         <idioma>Provencal</idioma>
+         <idioma>Breton</idioma>
+         <idioma>Alsatian</idioma>
+         <idioma>Corsican</idioma>
+         <idioma>Catalan</idioma>
+         <idioma>Basque</idioma>
+         <idioma>Flemish</idioma>
+         <idioma>Creole</idioma>
+         <idioma>Mahorian</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Andorra</pais_vizinho>
+         <pais_vizinho>Belgium</pais_vizinho>
+         <pais_vizinho>Germany</pais_vizinho>
+         <pais_vizinho>Italy</pais_vizinho>
+         <pais_vizinho>Luxembourg</pais_vizinho>
+         <pais_vizinho>Monaco</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="IT"/>
+      <nome>Italy</nome>
+      <continente>Europe</continente>
+      <presidente>President Sergio MATTARELLA</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png</bandeira>
+      <populacao>62402659</populacao>
+      <area>301,340</area>
+      <crescimentoPopulacional>0.34%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>ROME</cidade>
+         <cidade>Milan</cidade>
+         <cidade>Naples</cidade>
+         <cidade>Turin</cidade>
+         <cidade>Palermo</cidade>
+         <cidade>Bergamo</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.it</dominioInternet>
+      <idiomas>
+         <idioma>Italian</idioma>
+         <idioma>German</idioma>
+         <idioma>French</idioma>
+         <idioma>Slovene</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Austria</pais_vizinho>
+         <pais_vizinho>France</pais_vizinho>
+         <pais_vizinho>San Marino</pais_vizinho>
+         <pais_vizinho>Slovenia</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="GB"/>
+      <nome>United Kingdom</nome>
+      <continente>Europe</continente>
+      <presidente>King CHARLES III</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png</bandeira>
+      <populacao>65761117</populacao>
+      <area>243,610</area>
+      <crescimentoPopulacional>0.55%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>LONDON</cidade>
+         <cidade>Birmingham</cidade>
+         <cidade>Manchester</cidade>
+         <cidade>West Yorkshire</cidade>
+         <cidade>Glasgow</cidade>
+         <cidade>Newcastle upon Tyne</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.uk</dominioInternet>
+      <idiomas>
+         <idioma>English</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Ireland</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="AR"/>
+      <nome>Argentina</nome>
+      <continente>America</continente>
+      <presidente>President Javier Gerardo MILEI</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png</bandeira>
+      <populacao>45479118</populacao>
+      <area>2,780,400</area>
+      <crescimentoPopulacional>1%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>BUENOS AIRES</cidade>
+         <cidade>Cordoba</cidade>
+         <cidade>Rosario</cidade>
+         <cidade>Mendoza</cidade>
+         <cidade>San Miguel de Tucuman</cidade>
+         <cidade>La Plata</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.ar</dominioInternet>
+      <idiomas>
+         <idioma>Spanish</idioma>
+         <idioma>Italian</idioma>
+         <idioma>English</idioma>
+         <idioma>German</idioma>
+         <idioma>French</idioma>
+         <idioma>Mapudungun</idioma>
+         <idioma>Quechua</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Bolivia</pais_vizinho>
+         <pais_vizinho>Brazil</pais_vizinho>
+         <pais_vizinho>Chile</pais_vizinho>
+         <pais_vizinho>Paraguay</pais_vizinho>
+         <pais_vizinho>Uruguay</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="CL"/>
+      <nome>Chile</nome>
+      <continente>America</continente>
+      <presidente>President Sebastian PINERA Echenique</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png</bandeira>
+      <populacao>18186770</populacao>
+      <area>756,102</area>
+      <crescimentoPopulacional>0.86%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>SANTIAGO</cidade>
+         <cidade>Valparaiso</cidade>
+         <cidade>Concepcion</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.cl</dominioInternet>
+      <idiomas>
+         <idioma>Spanish</idioma>
+         <idioma>Mapudungun</idioma>
+         <idioma>German</idioma>
+         <idioma>English</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Argentina</pais_vizinho>
+         <pais_vizinho>Bolivia</pais_vizinho>
+         <pais_vizinho>Peru</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="CN"/>
+      <nome>China</nome>
+      <continente>Asia</continente>
+      <presidente>President XI Jinping</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png</bandeira>
+      <populacao>1394015977</populacao>
+      <area>9,596,961</area>
+      <crescimentoPopulacional>0.46%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>Shanghai</cidade>
+         <cidade>BEIJING</cidade>
+         <cidade>Guangzhou</cidade>
+         <cidade>Shenzhen</cidade>
+         <cidade>Chongqing</cidade>
+         <cidade>Wuhan</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.cn</dominioInternet>
+      <idiomas>
+         <idioma>Chinese</idioma>
+         <idioma>Mandarin</idioma>
+         <idioma>Yue</idioma>
+         <idioma>Wu</idioma>
+         <idioma>Minbei</idioma>
+         <idioma>Minnan</idioma>
+         <idioma>Xiang</idioma>
+         <idioma>Gan</idioma>
+         <idioma>Hakka</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Afghanistan</pais_vizinho>
+         <pais_vizinho>Bhutan</pais_vizinho>
+         <pais_vizinho>Burma</pais_vizinho>
+         <pais_vizinho>India</pais_vizinho>
+         <pais_vizinho>Kazakhstan</pais_vizinho>
+         <pais_vizinho>North Korea</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="CO"/>
+      <nome>Colombia</nome>
+      <continente>America</continente>
+      <presidente>President Ivan DUQUE Marquez</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png</bandeira>
+      <populacao>49084841</populacao>
+      <area>1,138,910</area>
+      <crescimentoPopulacional>1.1%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>BOGOTA</cidade>
+         <cidade>Medellin</cidade>
+         <cidade>Cali</cidade>
+         <cidade>Barranquilla</cidade>
+         <cidade>Bucaramanga</cidade>
+         <cidade>Cartagena</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.co</dominioInternet>
+      <idiomas>
+         <idioma>Spanish</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Brazil</pais_vizinho>
+         <pais_vizinho>Ecuador</pais_vizinho>
+         <pais_vizinho>Panama</pais_vizinho>
+         <pais_vizinho>Peru</pais_vizinho>
+         <pais_vizinho>Venezuela</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+   <pais>
+      <codigoISO CodigoISO="Não definido"/>
+      <nome>Denmark</nome>
+      <continente>Europe</continente>
+      <presidente>Queen MARGRETHE II</presidente>
+      <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png</bandeira>
+      <populacao>5869410</populacao>
+      <area>43,094</area>
+      <crescimentoPopulacional>0.23%</crescimentoPopulacional>
+      <cidades_mais_populosas>
+         <cidade>COPENHAGEN</cidade>
+      </cidades_mais_populosas>
+      <dominioInternet>.dk</dominioInternet>
+      <idiomas>
+         <idioma>Danish</idioma>
+         <idioma>Faroese</idioma>
+         <idioma>Greenlandic</idioma>
+         <idioma>German</idioma>
+      </idiomas>
+      <paises_vizinhos>
+         <pais_vizinho>Germany</pais_vizinho>
+      </paises_vizinhos>
+   </pais>
+</result>

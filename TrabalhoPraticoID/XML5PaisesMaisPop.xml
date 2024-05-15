@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CincoPaisesMaisPopulosos>
+     <pais>
+          <nome>China</nome>
+          <populacao>1394015977</populacao>
+          <capital>Beijing</capital>
+          <continente>Asia</continente>
+          <moeda>Renminbi yuan</moeda>
+          <Paises_Vizinhos>
+               <pais_vizinho>Afghanistan</pais_vizinho>
+               <pais_vizinho>Bhutan</pais_vizinho>
+               <pais_vizinho>Burma</pais_vizinho>
+               <pais_vizinho>India</pais_vizinho>
+               <pais_vizinho>Kazakhstan</pais_vizinho>
+               <pais_vizinho>North Korea</pais_vizinho>
+          </Paises_Vizinhos>
+          <idiomas>
+               <idioma>Chinese</idioma>
+               <idioma>Mandarin</idioma>
+               <idioma>Yue</idioma>
+               <idioma>Wu</idioma>
+               <idioma>Minbei</idioma>
+               <idioma>Minnan</idioma>
+               <idioma>Xiang</idioma>
+               <idioma>Gan</idioma>
+               <idioma>Hakka</idioma>
+          </idiomas>
+     </pais>
+     <pais>
+          <nome>United States</nome>
+          <populacao>332639102</populacao>
+          <capital>Washington, DC</capital>
+          <continente>America</continente>
+          <moeda>US Dollar</moeda>
+          <Paises_Vizinhos>
+               <pais_vizinho>Canada</pais_vizinho>
+               <pais_vizinho>Mexico</pais_vizinho>
+          </Paises_Vizinhos>
+          <idiomas>
+               <idioma>English</idioma>
+               <idioma>Spanish</idioma>
+               <idioma>Indo</idioma>
+               <idioma>European</idioma>
+               <idioma>Asian</idioma>
+               <idioma>Pacific</idioma>
+          </idiomas>
+     </pais>
+     <pais>
+          <nome>Brazil</nome>
+          <populacao>211715973</populacao>
+          <capital>Brasilia</capital>
+          <continente>America</continente>
+          <moeda>Brazilian Real</moeda>
+          <Paises_Vizinhos>
+               <pais_vizinho>Argentina</pais_vizinho>
+               <pais_vizinho>Bolivia</pais_vizinho>
+               <pais_vizinho>Colombia</pais_vizinho>
+               <pais_vizinho>French Guiana</pais_vizinho>
+               <pais_vizinho>Guyana</pais_vizinho>
+               <pais_vizinho>Paraguay</pais_vizinho>
+          </Paises_Vizinhos>
+          <idiomas>
+               <idioma>Portuguese</idioma>
+          </idiomas>
+     </pais>
+     <pais>
+          <nome>Russia</nome>
+          <populacao>141722205</populacao>
+          <capital>Moscow</capital>
+          <continente>Ocean</continente>
+          <moeda>Russian Ruble</moeda>
+          <Paises_Vizinhos>
+               <pais_vizinho>Azerbaijan</pais_vizinho>
+               <pais_vizinho>Belarus</pais_vizinho>
+               <pais_vizinho>Estonia</pais_vizinho>
+               <pais_vizinho>Finland</pais_vizinho>
+          </Paises_Vizinhos>
+          <idiomas>
+               <idioma>Russian</idioma>
+          </idiomas>
+     </pais>
+     <pais>
+          <nome>Germany</nome>
+          <populacao>80159662</populacao>
+          <capital>Berlin</capital>
+          <continente>Europe</continente>
+          <moeda>Euro</moeda>
+          <Paises_Vizinhos>
+               <pais_vizinho>Austria</pais_vizinho>
+               <pais_vizinho>Belgium</pais_vizinho>
+               <pais_vizinho>Czech Republic</pais_vizinho>
+               <pais_vizinho>Denmark</pais_vizinho>
+               <pais_vizinho>France</pais_vizinho>
+               <pais_vizinho>Luxembourg</pais_vizinho>
+          </Paises_Vizinhos>
+          <idiomas>
+               <idioma>German</idioma>
+          </idiomas>
+     </pais>
+</CincoPaisesMaisPopulosos>

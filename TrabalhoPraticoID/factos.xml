@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factos>
+     <pais CodigoISO="PT">
+          <nome>Portugal</nome>
+          <continente>Europe</continente>
+          <capital>Lisbon</capital>
+          <moeda>Euro</moeda>
+          <populacao>10302674</populacao>
+          <area>92,090</area>
+          <crescimentoPopulacional>0.15%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>LISBON</cidade>
+               <cidade>Porto</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.pt</dominioInternet>
+          <idiomas>
+               <idioma>Portuguese</idioma>
+               <idioma>Mirandese</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Spain</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="ES">
+          <nome>Spain</nome>
+          <continente>Europe</continente>
+          <capital>Madrid</capital>
+          <moeda>Euro</moeda>
+          <populacao>50015792</populacao>
+          <area>505,370</area>
+          <crescimentoPopulacional>0.73%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>MADRID</cidade>
+               <cidade>Barcelona</cidade>
+               <cidade>Valencia</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.es</dominioInternet>
+          <idiomas>
+               <idioma>Castilian</idioma>
+               <idioma>Spanish</idioma>
+               <idioma>Catalan</idioma>
+               <idioma>Galician</idioma>
+               <idioma>Basque</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Andorra</pais_vizinho>
+               <pais_vizinho>France</pais_vizinho>
+               <pais_vizinho>Gibraltar</pais_vizinho>
+               <pais_vizinho>Portugal</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="DE">
+          <nome>Germany</nome>
+          <continente>Europe</continente>
+          <capital>Berlin</capital>
+          <moeda>Euro</moeda>
+          <populacao>80159662</populacao>
+          <area>357,022</area>
+          <crescimentoPopulacional>0.19%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>BERLIN</cidade>
+               <cidade>Hamburg</cidade>
+               <cidade>Munich</cidade>
+               <cidade>Cologne</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.de</dominioInternet>
+          <idiomas>
+               <idioma>German</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Austria</pais_vizinho>
+               <pais_vizinho>Belgium</pais_vizinho>
+               <pais_vizinho>Czech Republic</pais_vizinho>
+               <pais_vizinho>Denmark</pais_vizinho>
+               <pais_vizinho>France</pais_vizinho>
+               <pais_vizinho>Luxembourg</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="US">
+          <nome>United States</nome>
+          <continente>America</continente>
+          <capital>Washington, DC</capital>
+          <moeda>US Dollar</moeda>
+          <populacao>332639102</populacao>
+          <area>9,826,675</area>
+          <crescimentoPopulacional>0.9%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>New York</cidade>
+               <cidade>Newark</cidade>
+               <cidade>Los Angeles</cidade>
+               <cidade>Long Beach</cidade>
+               <cidade>Santa Ana</cidade>
+               <cidade>Chicago</cidade>
+               <cidade>Miami</cidade>
+               <cidade>Philadelphia</cidade>
+               <cidade>WASHINGTON</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.us</dominioInternet>
+          <idiomas>
+               <idioma>English</idioma>
+               <idioma>Spanish</idioma>
+               <idioma>Indo</idioma>
+               <idioma>European</idioma>
+               <idioma>Asian</idioma>
+               <idioma>Pacific</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Canada</pais_vizinho>
+               <pais_vizinho>Mexico</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="SE">
+          <nome>Sweden</nome>
+          <continente>Europe</continente>
+          <capital>Stockholm</capital>
+          <moeda>Swedish Krona</moeda>
+          <populacao>10202491</populacao>
+          <area>450,295</area>
+          <crescimentoPopulacional>0.18%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>STOCKHOLM</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.se</dominioInternet>
+          <idiomas>
+               <idioma>Swedish</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Finland</pais_vizinho>
+               <pais_vizinho>Norway</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="VE">
+          <nome>Venezuela</nome>
+          <continente>America</continente>
+          <capital>Caracas</capital>
+          <moeda>Venezuelan Bolivar</moeda>
+          <populacao>28644603</populacao>
+          <area>912,050</area>
+          <crescimentoPopulacional>1.44%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>CARACAS</cidade>
+               <cidade>Maracaibo</cidade>
+               <cidade>Valencia</cidade>
+               <cidade>Barquisimeto</cidade>
+               <cidade>Maracay</cidade>
+               <cidade>Ciudad Guayana</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.ve</dominioInternet>
+          <idiomas>
+               <idioma>Spanish</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Brazil</pais_vizinho>
+               <pais_vizinho>Colombia</pais_vizinho>
+               <pais_vizinho>Guyana</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="BR">
+          <nome>Brazil</nome>
+          <continente>America</continente>
+          <capital>Brasilia</capital>
+          <moeda>Brazilian Real</moeda>
+          <populacao>211715973</populacao>
+          <area>8,514,877</area>
+          <crescimentoPopulacional>0.83%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>Sao Paulo</cidade>
+               <cidade>Rio de Janeiro</cidade>
+               <cidade>Belo Horizonte</cidade>
+               <cidade>Porto Alegre</cidade>
+               <cidade>Recife</cidade>
+               <cidade>BRASILIA</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.br</dominioInternet>
+          <idiomas>
+               <idioma>Portuguese</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Argentina</pais_vizinho>
+               <pais_vizinho>Bolivia</pais_vizinho>
+               <pais_vizinho>Colombia</pais_vizinho>
+               <pais_vizinho>French Guiana</pais_vizinho>
+               <pais_vizinho>Guyana</pais_vizinho>
+               <pais_vizinho>Paraguay</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="AO">
+          <nome>Angola</nome>
+          <continente>Africa</continente>
+          <capital>Luanda</capital>
+          <moeda>Angola Kwanza</moeda>
+          <populacao>32522339</populacao>
+          <area>1,246,700</area>
+          <crescimentoPopulacional>2.78%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>LUANDA</cidade>
+               <cidade>Huambo</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.ao</dominioInternet>
+          <idiomas>
+               <idioma>Portuguese</idioma>
+               <idioma>Bantu</idioma>
+               <idioma>African</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>The Democratic Republic of the Congo</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="RW">
+          <nome>Rwanda</nome>
+          <continente>Africa</continente>
+          <capital>Kigali</capital>
+          <moeda>Rwanda Franc</moeda>
+          <populacao>12712431</populacao>
+          <area>26,338</area>
+          <crescimentoPopulacional>2.7%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>KIGALI</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.rw</dominioInternet>
+          <idiomas>
+               <idioma>Kinyarwanda</idioma>
+               <idioma>Bantu</idioma>
+               <idioma>French</idioma>
+               <idioma>English</idioma>
+               <idioma>Kiswahili</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Burundi</pais_vizinho>
+               <pais_vizinho>Democratic Republic of the Congo</pais_vizinho>
+               <pais_vizinho>Tanzania</pais_vizinho>
+               <pais_vizinho>Uganda</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="RU">
+          <nome>Russia</nome>
+          <continente>Ocean</continente>
+          <capital>Moscow</capital>
+          <moeda>Russian Ruble</moeda>
+          <populacao>141722205</populacao>
+          <area>17,098,242</area>
+          <crescimentoPopulacional>0.02%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>MOSCOW</cidade>
+               <cidade>Saint Petersburg</cidade>
+               <cidade>Novosibirsk</cidade>
+               <cidade>Yekaterinburg</cidade>
+               <cidade>Nizhniy Novgorod</cidade>
+               <cidade>Samara</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.ru</dominioInternet>
+          <idiomas>
+               <idioma>Russian</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Azerbaijan</pais_vizinho>
+               <pais_vizinho>Belarus</pais_vizinho>
+               <pais_vizinho>Estonia</pais_vizinho>
+               <pais_vizinho>Finland</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="FR">
+          <nome>France</nome>
+          <continente>Europe</continente>
+          <capital>Paris</capital>
+          <moeda>Euro</moeda>
+          <populacao>67848156</populacao>
+          <area>643,801</area>
+          <crescimentoPopulacional>0.47%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>PARIS</cidade>
+               <cidade>Marseille</cidade>
+               <cidade>Aix</cidade>
+               <cidade>Provence</cidade>
+               <cidade>Lyon</cidade>
+               <cidade>Lille</cidade>
+               <cidade>Nice</cidade>
+               <cidade>Cannes</cidade>
+               <cidade>Toulouse</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.fr</dominioInternet>
+          <idiomas>
+               <idioma>French</idioma>
+               <idioma>Provencal</idioma>
+               <idioma>Breton</idioma>
+               <idioma>Alsatian</idioma>
+               <idioma>Corsican</idioma>
+               <idioma>Catalan</idioma>
+               <idioma>Basque</idioma>
+               <idioma>Flemish</idioma>
+               <idioma>Creole</idioma>
+               <idioma>Mahorian</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Andorra</pais_vizinho>
+               <pais_vizinho>Belgium</pais_vizinho>
+               <pais_vizinho>Germany</pais_vizinho>
+               <pais_vizinho>Italy</pais_vizinho>
+               <pais_vizinho>Luxembourg</pais_vizinho>
+               <pais_vizinho>Monaco</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="IT">
+          <nome>Italy</nome>
+          <continente>Europe</continente>
+          <capital>Rome</capital>
+          <moeda>Euros</moeda>
+          <populacao>62402659</populacao>
+          <area>301,340</area>
+          <crescimentoPopulacional>0.34%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>ROME</cidade>
+               <cidade>Milan</cidade>
+               <cidade>Naples</cidade>
+               <cidade>Turin</cidade>
+               <cidade>Palermo</cidade>
+               <cidade>Bergamo</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.it</dominioInternet>
+          <idiomas>
+               <idioma>Italian</idioma>
+               <idioma>German</idioma>
+               <idioma>French</idioma>
+               <idioma>Slovene</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Austria</pais_vizinho>
+               <pais_vizinho>France</pais_vizinho>
+               <pais_vizinho>San Marino</pais_vizinho>
+               <pais_vizinho>Slovenia</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="GB">
+          <nome>United Kingdom</nome>
+          <continente>Europe</continente>
+          <capital>London</capital>
+          <moeda>Pound Sterling</moeda>
+          <populacao>65761117</populacao>
+          <area>243,610</area>
+          <crescimentoPopulacional>0.55%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>LONDON</cidade>
+               <cidade>Birmingham</cidade>
+               <cidade>Manchester</cidade>
+               <cidade>West Yorkshire</cidade>
+               <cidade>Glasgow</cidade>
+               <cidade>Newcastle upon Tyne</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.uk</dominioInternet>
+          <idiomas>
+               <idioma>English</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Ireland</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="AR">
+          <nome>Argentina</nome>
+          <continente>America</continente>
+          <capital>Buenos Aires</capital>
+          <moeda>Argentine Peso</moeda>
+          <populacao>45479118</populacao>
+          <area>2,780,400</area>
+          <crescimentoPopulacional>1%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>BUENOS AIRES</cidade>
+               <cidade>Cordoba</cidade>
+               <cidade>Rosario</cidade>
+               <cidade>Mendoza</cidade>
+               <cidade>San Miguel de Tucuman</cidade>
+               <cidade>La Plata</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.ar</dominioInternet>
+          <idiomas>
+               <idioma>Spanish</idioma>
+               <idioma>Italian</idioma>
+               <idioma>English</idioma>
+               <idioma>German</idioma>
+               <idioma>French</idioma>
+               <idioma>Mapudungun</idioma>
+               <idioma>Quechua</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Bolivia</pais_vizinho>
+               <pais_vizinho>Brazil</pais_vizinho>
+               <pais_vizinho>Chile</pais_vizinho>
+               <pais_vizinho>Paraguay</pais_vizinho>
+               <pais_vizinho>Uruguay</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="CL">
+          <nome>Chile</nome>
+          <continente>America</continente>
+          <capital>Santiago</capital>
+          <moeda>Chilean pesos</moeda>
+          <populacao>18186770</populacao>
+          <area>756,102</area>
+          <crescimentoPopulacional>0.86%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>SANTIAGO</cidade>
+               <cidade>Valparaiso</cidade>
+               <cidade>Concepcion</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.cl</dominioInternet>
+          <idiomas>
+               <idioma>Spanish</idioma>
+               <idioma>Mapudungun</idioma>
+               <idioma>German</idioma>
+               <idioma>English</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Argentina</pais_vizinho>
+               <pais_vizinho>Bolivia</pais_vizinho>
+               <pais_vizinho>Peru</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="CN">
+          <nome>China</nome>
+          <continente>Asia</continente>
+          <capital>Beijing</capital>
+          <moeda>Renminbi yuan</moeda>
+          <populacao>1394015977</populacao>
+          <area>9,596,961</area>
+          <crescimentoPopulacional>0.46%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>Shanghai</cidade>
+               <cidade>BEIJING</cidade>
+               <cidade>Guangzhou</cidade>
+               <cidade>Shenzhen</cidade>
+               <cidade>Chongqing</cidade>
+               <cidade>Wuhan</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.cn</dominioInternet>
+          <idiomas>
+               <idioma>Chinese</idioma>
+               <idioma>Mandarin</idioma>
+               <idioma>Yue</idioma>
+               <idioma>Wu</idioma>
+               <idioma>Minbei</idioma>
+               <idioma>Minnan</idioma>
+               <idioma>Xiang</idioma>
+               <idioma>Gan</idioma>
+               <idioma>Hakka</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Afghanistan</pais_vizinho>
+               <pais_vizinho>Bhutan</pais_vizinho>
+               <pais_vizinho>Burma</pais_vizinho>
+               <pais_vizinho>India</pais_vizinho>
+               <pais_vizinho>Kazakhstan</pais_vizinho>
+               <pais_vizinho>North Korea</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="CO">
+          <nome>Colombia</nome>
+          <continente>America</continente>
+          <capital>Bogota</capital>
+          <moeda>Colombian pesos</moeda>
+          <populacao>49084841</populacao>
+          <area>1,138,910</area>
+          <crescimentoPopulacional>1.1%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>BOGOTA</cidade>
+               <cidade>Medellin</cidade>
+               <cidade>Cali</cidade>
+               <cidade>Barranquilla</cidade>
+               <cidade>Bucaramanga</cidade>
+               <cidade>Cartagena</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.co</dominioInternet>
+          <idiomas>
+               <idioma>Spanish</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Brazil</pais_vizinho>
+               <pais_vizinho>Ecuador</pais_vizinho>
+               <pais_vizinho>Panama</pais_vizinho>
+               <pais_vizinho>Peru</pais_vizinho>
+               <pais_vizinho>Venezuela</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+     <pais CodigoISO="Não definido">
+          <nome>Denmark</nome>
+          <continente>Europe</continente>
+          <capital>Copenhagen</capital>
+          <moeda>Danish kroner</moeda>
+          <populacao>5869410</populacao>
+          <area>43,094</area>
+          <crescimentoPopulacional>0.23%</crescimentoPopulacional>
+          <cidades_mais_populosas>
+               <cidade>COPENHAGEN</cidade>
+          </cidades_mais_populosas>
+          <dominioInternet>.dk</dominioInternet>
+          <idiomas>
+               <idioma>Danish</idioma>
+               <idioma>Faroese</idioma>
+               <idioma>Greenlandic</idioma>
+               <idioma>German</idioma>
+          </idiomas>
+          <paises_vizinhos>
+               <pais_vizinho>Germany</pais_vizinho>
+          </paises_vizinhos>
+     </pais>
+</factos>

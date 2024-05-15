@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paises>
+     <pais CodigoISO="PT">
+          <nome>Portugal</nome>
+          <continente>Europe</continente>
+          <presidente>President Marcelo REBELO DE SOUSA</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="ES">
+          <nome>Spain</nome>
+          <continente>Europe</continente>
+          <presidente>King FELIPE VI</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="DE">
+          <nome>Germany</nome>
+          <continente>Europe</continente>
+          <presidente>President Frank</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="US">
+          <nome>United States</nome>
+          <continente>America</continente>
+          <presidente>President Joseph R BIDEN Jr</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1200px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="SE">
+          <nome>Sweden</nome>
+          <continente>Europe</continente>
+          <presidente>King CARL XVI GUSTAF</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="VE">
+          <nome>Venezuela</nome>
+          <continente>America</continente>
+          <presidente>Notification Statement</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="BR">
+          <nome>Brazil</nome>
+          <continente>America</continente>
+          <presidente>President Jair BOLSONARO</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="AO">
+          <nome>Angola</nome>
+          <continente>Africa</continente>
+          <presidente>President Joao Manuel Goncalves LOURENCO</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="RW">
+          <nome>Rwanda</nome>
+          <continente>Africa</continente>
+          <presidente>President Paul KAGAME</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="RU">
+          <nome>Russia</nome>
+          <continente>Ocean</continente>
+          <presidente>President Vladimir Vladimirovich PUTIN</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="FR">
+          <nome>France</nome>
+          <continente>Europe</continente>
+          <presidente>President Emmanuel MACRON</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="IT">
+          <nome>Italy</nome>
+          <continente>Europe</continente>
+          <presidente>President Sergio MATTARELLA</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="GB">
+          <nome>United Kingdom</nome>
+          <continente>Europe</continente>
+          <presidente>King CHARLES III</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="AR">
+          <nome>Argentina</nome>
+          <continente>America</continente>
+          <presidente>President Javier Gerardo MILEI</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="CL">
+          <nome>Chile</nome>
+          <continente>America</continente>
+          <presidente>President Sebastian PINERA Echenique</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="CN">
+          <nome>China</nome>
+          <continente>Asia</continente>
+          <presidente>President XI Jinping</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="CO">
+          <nome>Colombia</nome>
+          <continente>America</continente>
+          <presidente>President Ivan DUQUE Marquez</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png</bandeira>
+     </pais>
+     <pais CodigoISO="Não definido">
+          <nome>Denmark</nome>
+          <continente>Europe</continente>
+          <presidente>Queen MARGRETHE II</presidente>
+          <bandeira>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png</bandeira>
+     </pais>
+</paises>

@@ -1,0 +1,20 @@
+Listagem de Países:
+
+Portugal
+Spain
+Germany
+United States
+Sweden
+Venezuela
+Brazil
+Angola
+Rwanda
+Russia
+France
+Italy
+United Kingdom
+Argentina
+Chile
+China
+Denmark
+Colombia

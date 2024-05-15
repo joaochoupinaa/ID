@@ -1,0 +1,20 @@
+Listagem de Paises e Capitais:
+
+Portugal - Lisbon
+Spain - Madrid
+Germany - Berlin
+United States - Washington, DC
+Sweden - Stockholm
+Venezuela - Caracas
+Brazil - Brasilia
+Angola - Luanda
+Rwanda - Kigali
+Russia - Moscow
+France - Paris
+Italy - Rome
+United Kingdom - London
+Argentina - Buenos Aires
+Chile - Santiago
+China - Beijing
+Colombia - Bogota
+Denmark - Copenhagen
